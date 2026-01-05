@@ -1,7 +1,7 @@
-p {
+.salmon {
     background-color: rgb(255, 138, 146)
 }
 
-#numbertwo{
-    color: hsl(0, 76%, 49%)
+#numbertwo {
+    color: blue
 }
