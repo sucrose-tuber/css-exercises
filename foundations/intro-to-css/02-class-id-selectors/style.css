@@ -1,9 +1,10 @@
 .odd {
     background-color: rgb(255, 138, 146)
+    font-family: Verdana, "DejaVu Sans", sans-serif
 }
 
 .font {
-    font-family: Verdana, "DejaVu Sans", sans-serif
+    
 }
 #two {
     color: blue;
